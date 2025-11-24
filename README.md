@@ -1,4 +1,6 @@
-📌 **Project Overview**
+**UAE AML/CFT Compliance Framework & Risk Engine**
+
+**📌 Project Overview**
 
 This project demonstrates a Risk-Based Approach (RBA) to Anti-Money Laundering (AML) compliance, designed specifically for the UAE regulatory environment. It operationalizes the requirements of Federal Decree-Law No. (20) of 2018 and Cabinet Decision No. (10) of 2019.
 
@@ -12,7 +14,7 @@ Mock Suspicious Activity Report (SAR): A procedural document demonstrating the a
 
 The Risk Engine is built to automate the mandates of Article 4 (Risk Identification) of Cabinet Decision No. 10.
 
-**1. Risk Weighting Methodology**
+1. Risk Weighting Methodology
 
 The tool calculates risk based on four statutory pillars, weighted by their impact on financial crime vulnerability:
 
@@ -46,7 +48,7 @@ Channel
 
 Article 4.1.a: Face-to-face vs. Non-face-to-face onboarding risks.
 
-**2. Decision Logic**
+2. Decision Logic
 
 Low Risk (< 2.0): Triggers Simplified Due Diligence (SDD) as per Article 4.3.
 
