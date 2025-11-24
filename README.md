@@ -16,37 +16,12 @@ The Risk Engine is built to automate the mandates of Article 4 (Risk Identificat
 
 1. Risk Weighting Methodology
 
-The tool calculates risk based on four statutory pillars, weighted by their impact on financial crime vulnerability:
-
-Risk Factor
-
-Weight
-
-Legal Basis (Cabinet Decision No. 10)
-
-Customer Type
-
-30%
-
-Article 15: Mandates specific EDD for PEPs and complex structures.
-
-Geography
-
-30%
-
-Article 22: Requires enhanced measures for High-Risk Jurisdictions (FATF list).
-
-Product/Service
-
-25%
-
-Article 4.1.a: Assessing product vulnerability (e.g., Cash vs. Wire).
-
-Channel
-
-15%
-
-Article 4.1.a: Face-to-face vs. Non-face-to-face onboarding risks.
+| Risk Factor | Weight | Legal Basis |
+| :--- | :--- | :--- |
+| Customer Type | 30% | Article 15 |
+| Geography | 30% | Article 22 |
+| Product | 25% | Article 4.1.a |
+| Channel | 15% | Article 4.1.a |
 
 2. Decision Logic
 
