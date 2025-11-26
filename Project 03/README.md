@@ -1,6 +1,6 @@
-**UAE AML/CFT Compliance Framework & Risk Engine**
+UAE AML/CFT Compliance Framework & Risk Engine
 
-**📌 Project Overview**
+📌 Project Overview
 
 This project demonstrates a Risk-Based Approach (RBA) to Anti-Money Laundering (AML) compliance, designed specifically for the UAE regulatory environment. It operationalizes the requirements of Federal Decree-Law No. (20) of 2018 and Cabinet Decision No. (10) of 2019.
 
@@ -9,6 +9,10 @@ The repository contains two key artifacts:
 Interactive Customer Risk Assessment Matrix (CRAM): A web-based tool that calculates Inherent Risk scores using a weighted-average algorithm.
 
 Mock Suspicious Activity Report (SAR): A procedural document demonstrating the analysis and reporting of "Structuring" typologies to the UAE Financial Intelligence Unit (FIU).
+
+* **Live Demo:** [Launch Risk Matrix Tool](https://Sameerbasha19-Lead.github.io/UAE-Financial-Crime-Compliance/Project%2003/risk_matrix.html)
+
+Status: ✅ Active Risk Scoring
 
 **🛠️ Technical & Legal Logic**
 
@@ -41,12 +45,12 @@ risk_matrix.html: The source code for the assessment engine.
 
 SAR_Analysis_Report.pdf: A sample investigation into high-velocity cash deposits suspected of placement/layering.
 
-**🚀 How to Use**
+🚀 How to Use
 
-Download risk_matrix.html.
+Click the Live Demo link above.
 
-Open the file in any web browser (Chrome/Edge).
+Select different client parameters (e.g., "PEP" + "High Risk Jurisdiction").
 
-Select different client parameters (e.g., "PEP" + "High Risk Jurisdiction") to see the automated risk scoring and compliance triggers.
+Watch the system automatically trigger Enhanced Due Diligence (EDD) protocols based on the score.
 
 Disclaimer: This project is a portfolio demonstration of compliance logic and is not a live production system.
