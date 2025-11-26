@@ -6,7 +6,7 @@ This project simulates a Transaction Monitoring System (TMS) Rule Engine designe
 
 Unlike standard "out-of-the-box" monitoring, this system demonstrates the Calibration & Tuning process required to reduce False Positives while maintaining regulatory coverage.
 
-* **Live Demo:** [Launch Watchtower Dashboard](https://Sameerbasha19-Lead.github.io/UAE-Financial-Crime-Compliance/Project_04/tm_dashboard.html)
+* **Live Demo:** [Launch Watchtower Dashboard](https://github.com/Sameerbasha19-Lead/UAE-Financial-Crime-Compliance/blob/main/Project_04/tm_dashboard.html)
 
 Status: ✅ Active Detection
 
