@@ -10,7 +10,7 @@ Interactive Customer Risk Assessment Matrix (CRAM): A web-based tool that calcul
 
 Mock Suspicious Activity Report (SAR): A procedural document demonstrating the analysis and reporting of "Structuring" typologies to the UAE Financial Intelligence Unit (FIU).
 
-* **Live Demo:** [Launch Risk Matrix Tool](https://Sameerbasha19-Lead.github.io/UAE-Financial-Crime-Compliance/Project%2003/risk_matrix.html)
+* **Live Demo:** [Launch Risk Matrix Tool](https://Sameerbasha19-Lead.github.io/UAE-Financial-Crime-Compliance/Project03/risk_matrix.html)
 
 Status: ✅ Active Risk Scoring
 
